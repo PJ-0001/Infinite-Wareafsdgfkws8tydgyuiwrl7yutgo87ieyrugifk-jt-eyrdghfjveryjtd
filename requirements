@@ -1,0 +1,11 @@
+requests
+py-cord
+random
+socket
+asyncio
+datetime
+base64
+os
+datetime 
+json
+subprocess
